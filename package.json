@@ -17,5 +17,13 @@
     "mongoose": "^5.12.7"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJFarrer/Denis-YelpCamp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DJFarrer/Denis-YelpCamp/issues"
+  },
+  "homepage": "https://github.com/DJFarrer/Denis-YelpCamp#readme",
   "description": ""
 }
